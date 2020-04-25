@@ -1,0 +1,44 @@
+1)
+A batsman hits a cricket ball by the velocity of 15 m/s making an angle of 45 degree
+with the ground. A fielder is standing 50 m away from it. At what velocity the
+fielder should run so that he can catch the ball before hitting the ground?
+#
+cricket
+sphere
+VAR
+v
+15
+theta
+45
+ANS
+vH
+CENTER
+200
+650
+MUL
+5
+5
+HUMAN
+50
+-12.5
+END
+2)
+A fighter plane is flying 3 km above the ground at 20 m/s. A soldier targets the plane from ground
+to shoot. When the plane is right above him, he fires a bullet at 500 m/s. For what initial launch
+angle will the bullet hit the plane?
+ans - 66.40
+3)
+A deer is sitting 32.94 m away from a hunter. The hunter throws arrow at 30 m/s with 30 degree
+angle horizontally. At the same time the deer runs at 10 m/s from still position. Can the arrow
+hit the deer?
+Ans - 3/2.2 s
+4)**
+A bullet from a cannon is fired from the top of a hill of height 60 m at an angle of 53 degree
+with velocity of 25 m/s. If similar bullet is fired from the top of the hill with same force
+along the horizontal, then which bullet will hit the ground first?
+5)
+By sitting on the branch of a tree at a height of 30 m a hunter fired a bullet with horizontal
+velocity of 20 m/s to hunt a bird. At the same time a bullet kept in hunter's pocket dropped
+on the ground from the same height. Which one of the two bullets will fall on the ground first?
+
+
